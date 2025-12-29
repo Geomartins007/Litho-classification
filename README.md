@@ -24,7 +24,7 @@
 This project demonstrates the application of **Self-Organizing Maps (SOM)** combined with **K-means clustering** for lithological classification in the **Malmbjerg area, East Greenland**. The workflow integrates:
 
 - **Sentinel-2 multispectral satellite data** (13 bands)
-- **Airborne geophysical resistivity measurements** (140 kHz and 40 kHz)
+- **Airborne geophysical resistivity measurements** 
 - **Machine learning techniques** (SOM + K-means)
 - **Comprehensive geologic interpretation**
 
@@ -33,7 +33,7 @@ The project successfully identifies **9 distinct geophysical-spectral domains** 
 ### 🔬 Research Context
 
 The Malmbjerg area hosts a significant **molybdenum-tungsten (Mo–W) deposit** within an alkaline intrusive complex. This project aims to provide an objective, data-driven approach to lithologic discrimination in Arctic terrains where:
-- ❄️ Snow and ice coverage limits traditional mapping
+- ❄️ Snow and ice coverage limit traditional mapping
 - 🏔️ Access and exposure are restricted
 - 🛰️ Remote sensing offers the primary data source
 
