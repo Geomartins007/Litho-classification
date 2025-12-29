@@ -1,4 +1,3 @@
-
 # 🗺️ Lithological Classification Using Self-Organizing Maps (SOM)
 ### Integrating Sentinel-2 Multispectral and Airborne Geophysical Data for Arctic Terrain Mapping
 
